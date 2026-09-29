@@ -1,4 +1,3 @@
-"""Gera um relatório HTML a partir dos CSVs do exercício."""
 
 from __future__ import annotations
 
